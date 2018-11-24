@@ -232,6 +232,7 @@ function snake() {
     # echo X: ${X[*]} >> ./test.txt
     # echo Y: ${Y[*]} >> ./test.txt
     # echo X: ${#X[*]} Y: ${#Y[*]} >> test.txt
+    #TEST
   done
 }
 
